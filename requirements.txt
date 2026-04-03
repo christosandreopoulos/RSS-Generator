@@ -1,2 +1,6 @@
-requests
+fastapi[standard]
 beautifulsoup4
+requests
+lxml
+uvicorn
+python-multipart
